@@ -1,0 +1,23 @@
+table{
+    margin-top: 3%;;
+    width:50%;
+    border: 1px solid black;
+}
+th, td{
+    border:1px solid black;
+}
+th{
+    background-color: green;
+}
+tr:nth-child(even){
+    background-color:aliceblue;
+}
+tr:hover{
+    background-color: coral;
+}
+
+/* #searchspan{
+
+    margin-top:100px;
+} */
+
