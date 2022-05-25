@@ -6,18 +6,19 @@ table{
 th, td{
     border:1px solid black;
 }
+
 th{
     background-color: green;
 }
+
 tr:nth-child(even){
     background-color:aliceblue;
 }
+
 tr:hover{
     background-color: coral;
 }
 
-/* #searchspan{
-
-    margin-top:100px;
-} */
-
+a{
+    text-decoration: none;
+}
